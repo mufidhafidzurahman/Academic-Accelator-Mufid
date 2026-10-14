@@ -1,0 +1,2 @@
+nama="ceca"
+print(nama)
